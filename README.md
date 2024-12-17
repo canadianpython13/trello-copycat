@@ -1,4 +1,4 @@
-# stackadapt
+# cypress sample
 
 The following project is run in Cypress
 
